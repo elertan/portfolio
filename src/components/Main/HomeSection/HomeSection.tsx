@@ -38,7 +38,7 @@ class HomeSection extends React.Component<IProps> {
                   src={meImg}
                 />
                 <h1 className={classnames.name}>Dennis Kievits</h1>
-                <h4 className={classnames.position}>Software Engineer & Entrepeneur</h4>
+                <h4 className={classnames.position}>Software Engineer</h4>
                 <code className={classnames.bio}>~ $ cat ~/.zshrc | unix --enthusiast && nvim</code>
                 <div>
                   {media.map((medium, i) =>

@@ -46,7 +46,7 @@ class ContactSection extends React.Component<IProps> {
                       </tr>
                       <tr>
                         <td><FontAwesomeIcon icon={faDiscord} size="2x"/></td>
-                        <td>Elertan#8907</td>
+                        <td>Elertan#8618</td>
                       </tr>
                       </tbody>
                     </table>
