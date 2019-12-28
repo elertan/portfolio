@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.b77a9208.chunk.css",
-  "main.js": "/static/js/main.0d532b59.chunk.js",
-  "main.js.map": "/static/js/main.0d532b59.chunk.js.map",
+  "main.js": "/static/js/main.66d29d78.chunk.js",
+  "main.js.map": "/static/js/main.66d29d78.chunk.js.map",
   "static/js/1.761d6e9a.chunk.js": "/static/js/1.761d6e9a.chunk.js",
   "static/js/1.761d6e9a.chunk.js.map": "/static/js/1.761d6e9a.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -13,7 +13,7 @@
   "static/media/image.png": "/static/media/image.7a232307.png",
   "static/media/client.png": "/static/media/client.2ea4b8b3.png",
   "static/media/HomeSection.scss": "/static/media/background.2879accc.jpg",
-  "static/media/pfp-cropped.jpg": "/static/media/pfp-cropped.e85dbf72.jpg",
+  "static/media/pfp-cropped.jpg": "/static/media/pfp-cropped.a491a9d2.jpg",
   "static/media/csharp.png": "/static/media/csharp.e8460f0d.png",
   "static/media/typescript.png": "/static/media/typescript.18ea02d2.png",
   "static/media/css3.png": "/static/media/css3.1f851630.png",
@@ -53,6 +53,6 @@
   "static/media/cover.png": "/static/media/cover.664fb4d1.png",
   "static/css/main.b77a9208.chunk.css.map": "/static/css/main.b77a9208.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.a333d943df237cd2237d1bca3ffccdde.js": "/precache-manifest.a333d943df237cd2237d1bca3ffccdde.js",
+  "precache-manifest.94dc4dab4b4e947e52d50b2fe2c65aae.js": "/precache-manifest.94dc4dab4b4e947e52d50b2fe2c65aae.js",
   "service-worker.js": "/service-worker.js"
 }
