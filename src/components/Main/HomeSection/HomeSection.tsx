@@ -8,7 +8,7 @@ import {Subscribe} from "unstated";
 import NavigationContainer, {RouteName} from "../../../containers/NavigationContainer";
 
 const classnames = require('./HomeSection.scss');
-const meImg = require('./me.jpg');
+const meImg = require('./pfp-cropped.jpg');
 
 interface IProps {
 }

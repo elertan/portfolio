@@ -10,14 +10,14 @@ const classnames = require('./ExperienceSection.scss');
 
 const workingExperiences: IExperience[] = [
   {
-    position: "Owner & Lead Software Engineer",
-    companyName: "Alavon",
-    icon: require("./companies/alavon/icon.png"),
-    cover: require("./companies/alavon/cover.jpg"),
+    position: "Owner & Software Architect",
+    companyName: "Velachi",
+    icon: require("./companies/velachi/Logo.png"),
+    cover: require("./companies/velachi/cover.jpg"),
     from: new Date(2017, 10),
     to: null,
     location: "Zwijndrecht, The Netherlands",
-    description: `+ Owner & Lead Software Developer of an innovative company.`,
+    description: `+ Owner & Software Architect of an innovative company.`,
   },
   {
     position: "Software Engineer (Project)",
