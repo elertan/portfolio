@@ -8,7 +8,7 @@ import {Subscribe} from "unstated";
 import NavigationContainer, {RouteName} from "../../../containers/NavigationContainer";
 
 const classnames = require('./HomeSection.scss');
-const meImg = require('./pfp-cropped.jpg');
+// const meImg = require('./pfp-cropped.jpg');
 
 interface IProps {
 }
@@ -35,7 +35,7 @@ class HomeSection extends React.Component<IProps> {
               <div className={classnames.content}>
                 <img
                   className={classnames.imgMe}
-                  src={meImg}
+                  src="/me.jpg"
                 />
                 <h1 className={classnames.name}>Dennis Kievits</h1>
                 <h4 className={classnames.position}>Software Engineer</h4>

@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="595ccf88-de49-4a5b-a4c8-0fcbcf02233e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main/ExperienceSection/ExperienceSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/ExperienceSection/ExperienceSection.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main/ExperienceSection/companies/alavon/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/ExperienceSection/companies/velachi/cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main/ExperienceSection/companies/alavon/icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main/HomeSection/HomeSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/HomeSection/HomeSection.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main/HomeSection/me.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +39,29 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="per&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/PersonalitySection/PersonalitySection.scss&#10;Contact&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/ContactSection/ContactSection.scss&#10;Pers&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/PersonalitySection/PersonalitySection.scss&#10;home&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/HomeSection/HomeSection.tsx&#10;Footer&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Footer/Footer.tsx&#10;Sk&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/SkillsSection/SkillsSection.scss&#10;Skill&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/SkillsSection/SkillsSection.scss&#10;Nav&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/NavBar/NavBar.tsx&#10;In&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/InDepthSection/InDepthSection.tsx&#10;Ski&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/SkillsSection/SkillsSection.tsx&#10;Pro&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/ProjectsSection/ProjectsSection.scss&#10;Per&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/PersonalitySection/PersonalitySection.scss&#10;ind&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/index.scss&#10;Skil&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/SkillsSection/SkillsSection.scss&#10;Ho&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/HomeSection/HomeSection.scss&#10;na&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/NavBar/NavBar.scss&#10;nav&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/NavBar/NavBar.tsx&#10;Foot&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Footer/Footer.scss&#10;style.&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/node_modules/@fortawesome/fontawesome-svg-core/styles.css&#10;Proj&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/ProjectsSection/ProjectsSection.scss&#10;Con&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/ContactSection/ContactSection.scss&#10;Co&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/ContactSection/ContactSection.scss&#10;index&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/public/index.html&#10;Contac&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/ContactSection/ContactSection.scss&#10;Home&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/HomeSection/HomeSection.tsx&#10;homeS&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/HomeSection/HomeSection.scss&#10;inde&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/index.scss&#10;HomeS&#9;FILE&#9;file:///Users/denniskievits/dev/portfolio/src/components/Main/HomeSection/HomeSection.scss" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549388027338" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Main/ExperienceSection/companies/velachi" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="typescript-compiler-editor-notification" value="false" />
   </component>
   <component name="RecentsManager">
@@ -101,18 +99,7 @@
       <item itemvalue="JavaScript Debug.Debug JavaScript" />
     </list>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -143,20 +130,17 @@
       <workItem from="1549372204370" duration="12517000" />
       <workItem from="1577542699388" duration="2023000" />
       <workItem from="1582137053799" duration="127000" />
+      <workItem from="1597619179633" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577542957554">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="1210" y="240" key="SettingsEditor" timestamp="1597619361707">
+      <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="634" y="325" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1577542957554" />
-    <state x="397" y="210" key="SettingsEditor" timestamp="1582137180229">
-      <screen x="0" y="23" width="1792" height="1097" />
-    </state>
-    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1582137180229" />
+    <state x="1210" y="240" key="SettingsEditor/773.1463.1792.1097/0.23.3440.1417@0.23.3440.1417" timestamp="1597619361707" />
   </component>
 </project>
