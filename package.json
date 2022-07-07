@@ -13,7 +13,7 @@
     "@types/react-dom": "^16.0.11",
     "@types/react-responsive": "^3.0.2",
     "classnames": "^2.2.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.14.1",
     "react": "^16.8.0-alpha.1",
     "react-dom": "^16.8.0-alpha.1",
